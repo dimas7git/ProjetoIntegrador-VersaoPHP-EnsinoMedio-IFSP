@@ -1,0 +1,31 @@
+.posi{
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 8%;
+    width: 400px;
+    background-color: #282828;
+    padding:10px;
+    border-radius: 10px 10px 10px 10px;
+    border: #707070 1px solid;
+    color:white;
+    
+}
+.corpo_geral{
+    margin-left: 6%;
+    margin-right: 6%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: #e6e6e6;
+
+    border-radius: 10px 10px 10px 10px;
+    border: #707070 1px solid;
+    margin-top: 4%;
+}
+ul{
+    color:white;
+    
+}
+
+.btn-primary:hover{opacity: 20}
